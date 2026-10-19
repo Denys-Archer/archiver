@@ -1,4 +1,4 @@
-AC_INIT([archiver], [0.1], [denys@archlinux])
+AC_INIT([archiver], [1.1.0], [denys@archlinux])
 AC_CONFIG_AUX_DIR([build-aux])
 AM_INIT_AUTOMAKE([foreign -Wall -Werror subdir-objects])
 
